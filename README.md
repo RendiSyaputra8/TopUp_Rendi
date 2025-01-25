@@ -4,9 +4,9 @@ Saya Rendi Syaputra adalah Saya Seorang Guru, saya seorang yang berdedikasi untu
 
 ## 🚀 Tentang Saya
 
-- 🌱 Saya sedang belajar [teknologi atau keterampilan baru yang sedang Anda pelajari].
-- 👯 Saya mencari kolaborasi pada [sebutkan jenis proyek atau bidang yang Anda minati].
-- 💬 Jangan ragu untuk bertanya tentang [topik yang Anda kuasai].
+- 🌱 Saya sedang belajar Pembuatan Website dan Pemrograman.
+- 👯 Saya mencari kolaborasi pada Bidang Bahasa Pemrograman PHP, JavaScript dan Phyton.
+- 💬 Jangan ragu untuk sharing dengan saya.
 - 📫 Anda dapat menghubungi saya di syaputrarendi39@gmail.com
 - ⚡ Fun fact: Saya Manis Orangnya hehe.
 
